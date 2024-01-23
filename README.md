@@ -1,0 +1,2 @@
+# Sistema Bancario Python
+ Este repositório contém a implementação de um sistema bancário simples em Python, desenvolvido para atender às necessidades essenciais de um banco que busca otimizar suas operações financeiras. O sistema oferece funcionalidades cruciais, incluindo depósito, saque e consulta de extrato. O código está estruturado de maneira modular e fácil de entender, facilitando a manutenção e expansão futura do sistema.
